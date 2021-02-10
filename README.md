@@ -1,4 +1,4 @@
-# Time-series-stock-movement-in-decision-tree
+# Time-series-stock-movement-in-decision-tree, XGB, and LSTM
 
 ## Story
 
